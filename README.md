@@ -215,12 +215,22 @@ Contoh response:
 
 ---
 
-# 8. Screenshot Postman (Wajib)
-1. ./screenshots/get-all.png
-2. ./screenshots/get-id.png
-3. ./screenshots/post-event.png
-4. ./screenshots/put-event.png
-5. ./screenshots/delete-event.png  
+## Screenshot Hasil Uji (Postman)
+Lampirkan 5 screenshot:
+### 1. GET Semua Data (GET /api/students)
+![GET Semua](./screenshot-postman/get-all.png)
+
+### 2. GET Data Berdasarkan ID (GET /api/students/1)
+![GET By ID](./screenshot-postman/get-id.png)
+
+### 3. POST Tambah Mahasiswa (POST /api/students)
+![POST Tambah](./screenshot-postman/post-event.png)
+
+### 4. PUT Update Mahasiswa (PUT /api/students/3)
+![PUT Update](./screenshot-postman/put-event.png)
+
+### 5. DELETE Hapus Mahasiswa (DELETE /api/students/3)
+![DELETE](./screenshot-postman/delete-event.png)
 
 ---
 
