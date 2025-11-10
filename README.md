@@ -217,19 +217,19 @@ Contoh response:
 
 ## Screenshot Hasil Uji (Postman)
 Lampirkan 5 screenshot:
-### 1. GET Semua Data (GET /api/students)
+### 1. GET Semua Data (GET /api/events)
 ![GET Semua](./screenshot-postman/get-all.png)
 
-### 2. GET Data Berdasarkan ID (GET /api/students/1)
+### 2. GET Data Berdasarkan ID (GET /api/events)
 ![GET By ID](./screenshot-postman/get-id.png)
 
-### 3. POST Tambah Mahasiswa (POST /api/students)
+### 3. POST Tambah Mahasiswa (POST /api/events)
 ![POST Tambah](./screenshot-postman/post-event.png)
 
-### 4. PUT Update Mahasiswa (PUT /api/students/3)
+### 4. PUT Update Mahasiswa (PUT /api/events)
 ![PUT Update](./screenshot-postman/put-event.png)
 
-### 5. DELETE Hapus Mahasiswa (DELETE /api/students/3)
+### 5. DELETE Hapus Mahasiswa (DELETE /api/events)
 ![DELETE](./screenshot-postman/delete-event.png)
 
 ---
