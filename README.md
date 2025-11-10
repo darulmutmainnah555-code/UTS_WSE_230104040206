@@ -220,17 +220,20 @@ Lampirkan 5 screenshot:
 ### 1. GET Semua Data (GET /api/events)
 ![GET Semua](./screenshot-postman/get-all.png)
 
-### 2. GET Data Berdasarkan ID (GET /api/events)
+### 2. GET Data Berdasarkan ID (GET /api/events/1)
 ![GET By ID](./screenshot-postman/get-id.png)
 
 ### 3. POST Tambah Mahasiswa (POST /api/events)
 ![POST Tambah](./screenshot-postman/post-event.png)
 
-### 4. PUT Update Mahasiswa (PUT /api/events)
+### 4. PUT Update Mahasiswa (PUT /api/events/3)
 ![PUT Update](./screenshot-postman/put-event.png)
 
-### 5. DELETE Hapus Mahasiswa (DELETE /api/events)
+### 5. DELETE Hapus Mahasiswa (DELETE /api/events/)
 ![DELETE](./screenshot-postman/delete-event.png)
+
+### 6. POST Gagal Tambah Mahasiswa (POST-Gagal /api/events)
+![POST](./screenshot-postman/post-gagal-event.png)
 
 ---
 
